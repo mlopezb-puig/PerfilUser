@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ContadorViews"
 include(":app")
+include(":app:perfilusuari")
